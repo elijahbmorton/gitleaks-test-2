@@ -1,9 +1,20 @@
 https://785847503069.signin.aws.amazon.com/console
 
-arn:aws:iam::542334543228:group/ass
 
-arn:aws:iam::123456789012:user/Bob
+arn:aws:iam::542334543228:group/joes_friends
 
-asshole
+arn:aws:iam::123456789012:user/Bobbyboy
 
 
+stringexample
+
+
+-----BEGIN ENCRYPTED PRIVATE KEY-----
+
+-----BEGIN PRIVATE KEY-----
+
+-----BEGIN RSA PRIVATE KEY-----
+
+-----BEGIN OPENSSH PRIVATE KEY-----
+
+---- BEGIN SSH2 PUBLIC KEY ----
