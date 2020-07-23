@@ -1,0 +1,9 @@
+https://785847503069.signin.aws.amazon.com/console
+
+arn:aws:iam::542334543228:group/ass
+
+arn:aws:iam::123456789012:user/Bob
+
+asshole
+
+
